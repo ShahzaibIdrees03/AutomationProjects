@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-20T16:50:29 PKT" name="Default suite" finished-at="2023-02-20T16:52:45 PKT" duration-ms="135725">
+    <groups>
+    </groups>
+    <test started-at="2023-02-20T16:50:29 PKT" name="Default test" finished-at="2023-02-20T16:52:45 PKT" duration-ms="135725">
+      <class name="SettingTest">
+        <test-method is-config="true" signature="startChrome()[pri:0, instance:SettingTest@4e25147a]" started-at="2023-02-20T16:50:29 PKT" name="startChrome" finished-at="2023-02-20T16:52:34 PKT" duration-ms="125063" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startChrome -->
+        <test-method signature="verifyBlockLickSection()[pri:0, instance:SettingTest@4e25147a]" started-at="2023-02-20T16:52:34 PKT" name="verifyBlockLickSection" finished-at="2023-02-20T16:52:34 PKT" duration-ms="246" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyBlockLickSection -->
+        <test-method signature="verifyChatIconVisible()[pri:0, instance:SettingTest@4e25147a]" started-at="2023-02-20T16:52:34 PKT" name="verifyChatIconVisible" finished-at="2023-02-20T16:52:42 PKT" duration-ms="7740" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyChatIconVisible -->
+        <test-method signature="verifyCityFieldValidation()[pri:0, instance:SettingTest@4e25147a]" started-at="2023-02-20T16:52:42 PKT" name="verifyCityFieldValidation" finished-at="2023-02-20T16:52:43 PKT" duration-ms="1098" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCityFieldValidation -->
+        <test-method signature="verifyFullNameFieldValidation()[pri:0, instance:SettingTest@4e25147a]" started-at="2023-02-20T16:52:43 PKT" name="verifyFullNameFieldValidation" finished-at="2023-02-20T16:52:44 PKT" duration-ms="907" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyFullNameFieldValidation -->
+        <test-method signature="verifyPageHeading()[pri:0, instance:SettingTest@4e25147a]" started-at="2023-02-20T16:52:44 PKT" name="verifyPageHeading" finished-at="2023-02-20T16:52:44 PKT" duration-ms="35" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPageHeading -->
+        <test-method signature="verifyPhoneNumberFieldValidation()[pri:0, instance:SettingTest@4e25147a]" started-at="2023-02-20T16:52:44 PKT" name="verifyPhoneNumberFieldValidation" finished-at="2023-02-20T16:52:44 PKT" duration-ms="256" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPhoneNumberFieldValidation -->
+        <test-method signature="verifyUserInformation()[pri:0, instance:SettingTest@4e25147a]" started-at="2023-02-20T16:52:44 PKT" name="verifyUserInformation" finished-at="2023-02-20T16:52:44 PKT" duration-ms="101" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUserInformation -->
+        <test-method is-config="true" signature="CloseChrome()[pri:0, instance:SettingTest@4e25147a]" started-at="2023-02-20T16:52:44 PKT" name="CloseChrome" finished-at="2023-02-20T16:52:45 PKT" duration-ms="217" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseChrome -->
+      </class> <!-- SettingTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
