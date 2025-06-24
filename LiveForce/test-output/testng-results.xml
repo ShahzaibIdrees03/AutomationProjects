@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-22T11:53:46 PKT" name="Default suite" finished-at="2024-01-22T11:54:23 PKT" duration-ms="36763">
+    <groups>
+    </groups>
+    <test started-at="2024-01-22T11:53:46 PKT" name="Default test" finished-at="2024-01-22T11:54:23 PKT" duration-ms="36763">
+      <class name="LFSuperAdminTest">
+        <test-method signature="verifyPurchaseKey()[pri:0, instance:LFSuperAdminTest@48c3205a]" started-at="2024-01-22T11:53:46 PKT" name="verifyPurchaseKey" finished-at="2024-01-22T11:54:23 PKT" duration-ms="36500" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPurchaseKey -->
+        <test-method is-config="true" signature="CloseChrome()[pri:0, instance:LFSuperAdminTest@48c3205a]" started-at="2024-01-22T11:54:23 PKT" name="CloseChrome" finished-at="2024-01-22T11:54:23 PKT" duration-ms="177" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseChrome -->
+      </class> <!-- LFSuperAdminTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
